@@ -18,7 +18,7 @@
     <div class="mb-5">
       <h2 class="text-info">Gamers</h2>
       <p>
-        We're looking for cool saves that we can index so other players can enjoy them, please share with us your worlds over on our <a href="https://discord.gg/3vhCpp6PNq" target="mni_gh">Discord</a>. Eventually this will be replaced with a nice automated upload process.
+        If you would like to contribute seeds please follow this guide. Step one: Download the mod <a href="">. Step 2: Create a new folder named "dev" in <b>\Documents\Klei\OxygenNotIncluded\mods</b>, then extract the mod to that folder. Step 3: Disable all mods except "Seed Parser" via the ingame mod menu and restart the game. Step 4: Click the "Start Generating Worlds" button. And you're done the mod will start generating seeds and sending them to the database! If you wish to stop generating seeds stop the game via Steam. If you wish to run the game without the mod, stop the game via Steam and rename the folder inside <b>\Documents\Klei\OxygenNotIncluded\mods\dev</b> or just delete it and redo these steps when you want to generate more. PS I would put the game in Window mode and turn all audio off so it doesnt make background noise or pop up on your screen.
       </p>
 
       <p>
